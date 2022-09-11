@@ -6,3 +6,5 @@ This is a blog website made with PHP, Javascript and SQL.
  3. PHP mailer/SMTP 
  4. A user account can create posts
  5. web analytics for visits
+	
+	Here is the link for a demo: http://fifiture.com
